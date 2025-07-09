@@ -13,6 +13,15 @@ A collection of solved exercises from [SQLBolt](https://sqlbolt.com/), covering 
 - Lesson 7: OUTER JOINs
 - Lesson 8: A Short Note on NULLs
 - Lesson 9: Queries with Expressions
+- Lesson 10: Queries with Aggregates (Pt. 1)
+- Lesson 11: Queries with Aggregates (Pt. 2)
+- Lesson 12: Order of Execution of a Query
+- Lesson 13: Inserting Rows
+- Lesson 14: Updating Rows
+- Lesson 15: Deleting Rows
+- Lesson 16: Creating Tables
+- Lesson 17: Altering Tables
+- Lesson 18: Dropping Tables
 ---
 
 ## 🙋‍♀️ Author
@@ -30,3 +39,7 @@ If you'd like to suggest corrections or improvements, feel free to fork the repo
 This project is for educational purposes only.
 
 ---
+
+![image](https://github.com/user-attachments/assets/163b284f-c8f5-43fd-af5e-1bd4f2da8b2a)
+
+📦 *DataLemur SQL Interview Repo – Coming Soon from My End!*
